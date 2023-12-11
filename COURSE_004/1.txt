@@ -1,0 +1,6 @@
+ls -latr
+l stands list of files
+s size of the files
+a hidden files
+t with respect to time
+r reverse order
