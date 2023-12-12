@@ -1,0 +1,1 @@
+ls -lS /etc|head -n 2 this command shows the information of biggest file in our etc directory.

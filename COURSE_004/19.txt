@@ -1,0 +1,1 @@
+find <path> -type f -newerct <date> (this command shows the information about new creation file as per the date we want we can go this command)

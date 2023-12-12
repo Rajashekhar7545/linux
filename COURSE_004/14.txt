@@ -1,0 +1,1 @@
+"tail -1 /etc/passwd" (tail represents bottom of the lines) (-1 it's indicates lastline of the file)

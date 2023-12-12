@@ -1,0 +1,2 @@
+find /etc -type f -name "*.conf" -print|wc -l 
+above command finding to the .conf extension files in /etc directory.

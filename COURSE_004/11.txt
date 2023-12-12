@@ -1,0 +1,1 @@
+"rm -rf" this command use to the forcefully removes to all file.

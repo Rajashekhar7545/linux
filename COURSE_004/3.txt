@@ -1,0 +1,2 @@
+pushd;- pushed is the going to the respective directory like pushd <directory name> its automatically go to the that directory.
+popd:- whatever we did in push it remove to the present diectory like popd <directory name> automatically comes from the previous directory.

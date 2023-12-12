@@ -1,0 +1,1 @@
+cd .. this command stands for "change directory" and .. represents parent directory.after running this command,we will be the parent directory of our current location.
